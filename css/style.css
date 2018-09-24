@@ -1,3 +1,13 @@
+
+
+header{
+    background-color: #ccc;
+}
+
 img {
     max-width: 200px;
+}
+
+#products{
+    border: solid 1px black;
 }
