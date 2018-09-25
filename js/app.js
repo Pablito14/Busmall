@@ -50,6 +50,12 @@ function shuffle(){
 }
 
 function handleClick(){
+  //if image 1 is clicked this.obj.clicks++
+
+  //if image 2 is clicked this.obj.clicks++
+
+  //if image 3 is clicked this.obj.clicks++
+
   shuffle();
 }
 
